@@ -1,5 +1,1 @@
-string = ererere (abayuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuudno);
-
 print ("pfpfpf abayudno");
-print ("eto cruta eeeeeeeeeeee");
-pringhg =agu ;bruh
